@@ -25,10 +25,6 @@ I am a Ph.D. student at Beijing Institute of Technology, and I am studying at Na
 - Multimodal Information Extraction
 - Multimodal Reasoning
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📝 Publications 
 - **Meihuizi Jia**, Lei Shen, Anh Tuan Luu, Meng Chen, Jing Xu, Lejian Liao, Shaozu Yuan, Xiaodong He. XXXX. **WSDM** 2024, under review.
 - **Meihuizi Jia**, Lei Shen, Xin Shen, Lejian Liao, Meng Chen, Xiaodong He, Zhendong Chen, Jiaqi Li. MNER-QG: An end-to-end MRC framework for multimodal named entity recognition with query grounding, **AAAI** 2023, 37(7): 8032-8040 <font color="red"> (Oral) </font>.
@@ -46,18 +42,26 @@ I am a Ph.D. student at Beijing Institute of Technology, and I am studying at Na
 - Huifang Ma, **Meihuizi Jia**, Weizhong Zhao, Xianghong Lin. Semi-supervised Microblog Clustering Method via Dual Constraints. KSEM 2015: 360-369.
 - Huifang Ma, **Meihuizi Jia**, YaKai Shi, Zhanjun Hao. Semi-supervised Nonnegative Matrix Factorization for Microblog Clustering Based on Term Correlation. APWeb 2014: 511-516.
 - Yuexin Sun, Huifang Ma, **Meihuizi Jia**, Peiqing Wang. An Efficient Microblog Hot Topic Detection Algorithm Based on Two Stage Clustering. Intelligent Information Processing 2014: 90-95.
+
+# 📚 Patent
+- 2021.08，一种以关键词为驱动的动态图神经网络多跳阅读理解方法, 国家发明专利, 已公开, 排名第一
  
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2020.08 Awarded by the China Scholarship Council (CSC).
+- 2018-2022 Academic Scholarship 
+- 2016 Outstanding Master's Graduate Award of Northwest Normal University
+- 2015 First-Class Academic Scholarship
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.12 - now*, Nanyang Technological University (visiting student), Singapore
+- *2018.09 - now*, Beijing Institute of Technology (Ph.D Candidate), Beijing, China
+- *2013.09 - 2016.06*, Northwest Normal University, Lanzhou, China
+
+# 💻 Works/Internships
+- *2021.11 - now*, JD - JD Technology - Intelligent Customer Service Product Department.
+- *2016.07 - 2018.04*, Bank of China
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.02*, An end-to-end MRC framework for multimodal named entity recognition with query grounding, AAAI, Washington, USA, Online.
+- *2015.8*, A microblog recommendation algorithm based on multi-tag correlation, KSEM, Chongqing, China, in-person.
+- *2014.07*, Microblog hot topic detection based on topic model using term correlation matrix, ICMLC, Lanzhou, China, in-person.
