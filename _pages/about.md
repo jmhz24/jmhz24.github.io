@@ -61,7 +61,7 @@ I am a Ph.D. student at Beijing Institute of Technology, and I am studying at Na
 - *2021.11 - now*, JD - JD Technology - Intelligent Customer Service Product Department.
 - *2016.07 - 2018.04*, Bank of China
 
-# 💬 Invited Talks
+# 💬 Talks
 - *2023.02*, An end-to-end MRC framework for multimodal named entity recognition with query grounding, AAAI, Washington, USA, Online.
 - *2015.8*, A microblog recommendation algorithm based on multi-tag correlation, KSEM, Chongqing, China, in-person.
 - *2014.07*, Microblog hot topic detection based on topic model using term correlation matrix, ICMLC, Lanzhou, China, in-person.
