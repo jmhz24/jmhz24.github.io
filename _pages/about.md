@@ -58,7 +58,7 @@ I am a Ph.D. student at Beijing Institute of Technology, advised by Lejian Liao,
 - *2013.09 - 2016.06*, Northwest Normal University, Lanzhou, China
 
 # 💻 Works/Internships
-- *2021.11 - now*, JD - JD Technology - Intelligent Customer Service Product Department  --Algorithm engineer (research).
+- *2021.11 - now*, JD AI Lab, NLP group  --Algorithm engineer (research).
 - *2016.07 - 2018.04*, Bank of China
 
 # 💬 Talks
