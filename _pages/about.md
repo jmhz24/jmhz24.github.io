@@ -31,7 +31,7 @@ I am a Ph.D. student at Beijing Institute of Technology, and I am studying at Na
 
 # 📝 Publications 
 - **Meihuizi Jia**, Lei Shen, Anh Tuan Luu, Meng Chen, Jing Xu, Lejian Liao, Shaozu Yuan, Xiaodong He. XXXX. **WSDM** 2024, under review.
-- **Meihuizi Jia**, Lei Shen, Xin Shen, Lejian Liao, Meng Chen, Xiaodong He, Zhendong Chen, Jiaqi Li. MNER-QG: An end-to-end MRC framework for multimodal named entity recognition with query grounding, **AAAI** 2023, 37(7): 8032-8040 <font color="red"> Oral </font>.
+- **Meihuizi Jia**, Lei Shen, Xin Shen, Lejian Liao, Meng Chen, Xiaodong He, Zhendong Chen, Jiaqi Li. MNER-QG: An end-to-end MRC framework for multimodal named entity recognition with query grounding, **AAAI** 2023, 37(7): 8032-8040 <font color="red"> (Oral) </font>.
 - **Meihuizi Jia**, Xin Shen, Lei Shen, Jinhui Pang, Lejian Liao, Yang Song, Meng Chen, Xiaodong He. Query prior matters: a MRC framework for multimodal named entity recognition. **ACM MM** 2022, 3549-3558.
 - **Meihuizi Jia**, Lejian Liao, Wenjing Wang, Fei Li, Zhendong Chen, Jiaqi Li, Heyan Huang. Keywords-aware dynamic graph neural network for multi-hop reading comprehension[J]. Neurocomputing, 2022, 501: 25-40.
 - **Meihuizi Jia**, Ruixue Liu, Peiying Wang, Yang Song, Zexi Xi, Haobin Li, Xin Shen, Meng Chen, Jinhui Pang, Xiaodong He. E-ConvRec: a large-scale conversational recommendation dataset for E-commerce customer service. LREC 2022: 5787-5796.
