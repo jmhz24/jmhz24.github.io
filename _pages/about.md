@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😊 About me
-I am a Ph.D. student at Beijing Institute of Technology, and I am studying at Nanyang Technological University in Singapore as a visiting student. My research interests:
+I am a Ph.D. student at Beijing Institute of Technology, advised by Lejian Liao, and I am studying at Nanyang Technological University in Singapore as a visiting student, advised by Anh Tuan Luu. My research interests:
 - Natural Language Processing
 - Multimodal Learning
 - Machine Reading Comprehension
