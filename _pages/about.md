@@ -12,7 +12,7 @@ I am a Ph.D. student at Beijing Institute of Technology, and I am studying at Na
 
 # 📝 Publications 
 - **Meihuizi Jia**, Lei Shen, Anh Tuan Luu, Meng Chen, Jing Xu, Lejian Liao, Shaozu Yuan, Xiaodong He. XXXX. WSDM 2024, under review.
-- **Meihuizi Jia**, Lei Shen, Xin Shen, Lejian Liao, Meng Chen, Xiaodong He, Zhendong Chen, Jiaqi Li. MNER-QG: An end-to-end MRC framework for multimodal named entity recognition with query grounding, AAAI 2023, 37(7): 8032-8040 <font color="red"> (Oral) </font>.
+- **Meihuizi Jia**, Lei Shen, Xin Shen, Lejian Liao, Meng Chen, Xiaodong He, Zhendong Chen, Jiaqi Li. MNER-QG: An end-to-end MRC framework for multimodal named entity recognition with query grounding, AAAI 2023, 37(7): 8032-8040 <font color="red"> Oral </font>.
  
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
