@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😊 About me
-I am a Ph.D. student at Beijing Institute of Technology, advised by Prof. Lejian Liao, and I am studying at Nanyang Technological University in Singapore as a visiting student, advised by Prof. <a href='https://scholar.google.com.sg/citations?user=d6ixOGYAAAAJ&hl=en'>Anh Tuan Luu. I worked at JD AI Lab, NLP group as a research intern engineer since 2021.11, advised by Meng Chen and Xiaodong He. My research interests:
+I am a Ph.D. student at Beijing Institute of Technology, advised by Prof. Lejian Liao, and I am studying at Nanyang Technological University in Singapore as a visiting student, advised by Prof. <a href='https://scholar.google.com.sg/citations?user=d6ixOGYAAAAJ&hl=en'>Anh Tuan Luu</span></strong></a>. I worked at JD AI Lab, NLP group as a research intern engineer since 2021.11, advised by Meng Chen and Xiaodong He. My research interests:
 - Natural Language Processing
 - Multimodal Learning
 - Machine Reading Comprehension
