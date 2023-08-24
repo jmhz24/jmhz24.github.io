@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😊 About me
-I am a Ph.D. student at Beijing Institute of Technology, advised by <a href='https://cs.bit.edu.cn/szdw/jsml/js/llj/index.htm'>Prof. Lejian Liao</a>, and I am studying at Nanyang Technological University in Singapore as a visiting student, advised by <a href='https://scholar.google.com.sg/citations?user=d6ixOGYAAAAJ&hl=en'>Asst. Prof. Anh Tuan Luu</a>. I worked at JD AI Lab, NLP group as a research intern engineer since 2021.11, advised by <a href='http://chenmengdx.github.io/research/'>Dr. Meng Chen</a> and <a href='https://scholar.google.com/citations?hl=zh-CN&user=W5WbqgoAAAAJ'>Dr. Xiaodong He</a>. My research interests:
+I am a Ph.D. student at Beijing Institute of Technology, advised by <a href='https://cs.bit.edu.cn/szdw/jsml/js/llj/index.htm'>Prof. Lejian Liao</a>, and I am studying at Nanyang Technological University in Singapore as a visiting student, advised by <a href='https://tuanluu.github.io/'>Asst. Prof. Anh Tuan Luu</a>. I worked at JD AI Lab, NLP group as a research intern engineer since 2021.11, advised by <a href='http://chenmengdx.github.io/research/'>Dr. Meng Chen</a> and <a href='https://scholar.google.com/citations?hl=zh-CN&user=W5WbqgoAAAAJ'>Dr. Xiaodong He</a>. My research interests:
 - Natural Language Processing
 - Multimodal Learning
 - Machine Reading Comprehension
@@ -58,7 +58,7 @@ I am a Ph.D. student at Beijing Institute of Technology, advised by <a href='htt
 - *2013.09 - 2016.06*, Northwest Normal University, Lanzhou, China
 
 # 💻 Works/Internships
-- *2021.11 - now*, JD AI Lab, NLP group  --Algorithm engineer (research).
+- *2021.11 - 2022.12*, JD AI Lab, NLP group  --Algorithm engineer (research).
 - *2016.07 - 2018.04*, Bank of China
 
 # 💬 Talks
