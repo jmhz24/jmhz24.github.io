@@ -31,19 +31,19 @@ My research interests:
 - **Meihuizi Jia**, Lei Shen, Anh Tuan Luu, Meng Chen, Jing Xu, Lejian Liao, Shaozu Yuan, Xiaodong He. XXXX. **WSDM** 2024, under review.
 - **Meihuizi Jia**, Lei Shen, Xin Shen, Lejian Liao, Meng Chen, Xiaodong He, Zhendong Chen, Jiaqi Li. MNER-QG: An end-to-end MRC framework for multimodal named entity recognition with query grounding, **AAAI** 2023, 37(7): 8032-8040 <font color="red"> (Oral) </font>.
 - **Meihuizi Jia**, Xin Shen, Lei Shen, Jinhui Pang, Lejian Liao, Yang Song, Meng Chen, Xiaodong He. Query prior matters: a MRC framework for multimodal named entity recognition. **ACM MM** 2022, 3549-3558.
-- **Meihuizi Jia**, Lejian Liao, Wenjing Wang, Fei Li, Zhendong Chen, Jiaqi Li, Heyan Huang. Keywords-aware dynamic graph neural network for multi-hop reading comprehension[J]. Neurocomputing, 2022, 501: 25-40.
-- **Meihuizi Jia**, Ruixue Liu, Peiying Wang, Yang Song, Zexi Xi, Haobin Li, Xin Shen, Meng Chen, Jinhui Pang, Xiaodong He. E-ConvRec: a large-scale conversational recommendation dataset for E-commerce customer service. LREC 2022: 5787-5796.
-- Zhendong Chen, Fuzhen Zhuang, Lejian Liao, **Meihuizi Jia**, Jiaqi Li, Heyan Huang: Effectively Modeling Sentence Interactions with Factorization Machines for Fact Verification[J]. IEEE Intelligent Systems, 2023.
+- **Meihuizi Jia**, Lejian Liao, Wenjing Wang, Fei Li, Zhendong Chen, Jiaqi Li, Heyan Huang. Keywords-aware dynamic graph neural network for multi-hop reading comprehension[J]. **Neurocomputing**, 2022, 501: 25-40.
+- **Meihuizi Jia**, Ruixue Liu, Peiying Wang, Yang Song, Zexi Xi, Haobin Li, Xin Shen, Meng Chen, Jinhui Pang, Xiaodong He. E-ConvRec: a large-scale conversational recommendation dataset for E-commerce customer service. **LREC** 2022: 5787-5796.
+- Zhendong Chen, Fuzhen Zhuang, Lejian Liao, **Meihuizi Jia**, Jiaqi Li, Heyan Huang: Effectively Modeling Sentence Interactions with Factorization Machines for Fact Verification[J]. **IEEE Intelligent Systems**, 2023.
 - Zhendong Chen, Siu Cheung Hui, Fuzhen Zhuang, Lejian Liao, Fei Li, **Meihuizi Jia**, Jiaqi Li: EvidenceNet: Evidence Fusion Network for Fact Verification. **WWW** 2022: 2636-2645 <font color="red"> (Oral) </font>.
 - Fei Li, Zheng Wang, Siu Cheung Hui, Lejian Liao, Dandan Song, Jing Xu, Guoxiu He, **Meihuizi Jia**: Modularized Interaction Network for Named Entity Recognition. **ACL/IJCNLP** (1) 2021: 200-209 <font color="red"> (Oral) </font>.
-- Huifang Ma, Di Zhang, **Meihuizi Jia**. A term correlation based semi-supervised microblog clustering with dual constraints[J]. International Journal of Machine Learning and Cybernetics, 2019, 10: 679-692.
+- Huifang Ma, Di Zhang, **Meihuizi Jia**. A term correlation based semi-supervised microblog clustering with dual constraints[J]. **International Journal of Machine Learning and Cybernetics**, 2019, 10: 679-692.
 - Huifang Ma, **Meihuizi Jia**, Di Zhang, Xianghong Lin. Combining tag correlation and user social relation for microblog recommendation[J]. **Information Sciences**, 2017, 385: 325-337.
 - 马慧芳, **贾美惠子**, 张迪, 蔺想红, 融合标签关联关系与用户社交关系的微博推荐方法[J]., **电子学报**., 2017,45(01):112-118.
-- Huifang Ma, **Meihuizi Jia**, Xianghong Lin, Fuzhen Zhuang. Tag correlation and user social relation based microblog recommendation. IJCNN 2016: 2424-2430.
-- Huifang Ma, **Meihuizi Jia**, Meng Xie, Xianghong Lin. A Microblog Recommendation Algorithm Based on Multi-tag Correlation. KSEM 2015: 483-488.
-- Huifang Ma, **Meihuizi Jia**, Weizhong Zhao, Xianghong Lin. Semi-supervised Microblog Clustering Method via Dual Constraints. KSEM 2015: 360-369.
-- Huifang Ma, **Meihuizi Jia**, YaKai Shi, Zhanjun Hao. Semi-supervised Nonnegative Matrix Factorization for Microblog Clustering Based on Term Correlation. APWeb 2014: 511-516.
-- Yuexin Sun, Huifang Ma, **Meihuizi Jia**, Peiqing Wang. An Efficient Microblog Hot Topic Detection Algorithm Based on Two Stage Clustering. Intelligent Information Processing 2014: 90-95.
+- Huifang Ma, **Meihuizi Jia**, Xianghong Lin, Fuzhen Zhuang. Tag correlation and user social relation based microblog recommendation. **IJCNN** 2016: 2424-2430.
+- Huifang Ma, **Meihuizi Jia**, Meng Xie, Xianghong Lin. A Microblog Recommendation Algorithm Based on Multi-tag Correlation. **KSEM** 2015: 483-488.
+- Huifang Ma, **Meihuizi Jia**, Weizhong Zhao, Xianghong Lin. Semi-supervised Microblog Clustering Method via Dual Constraints. **KSEM** 2015: 360-369.
+- Huifang Ma, **Meihuizi Jia**, YaKai Shi, Zhanjun Hao. Semi-supervised Nonnegative Matrix Factorization for Microblog Clustering Based on Term Correlation. **APWeb** 2014: 511-516.
+- Yuexin Sun, Huifang Ma, **Meihuizi Jia**, Peiqing Wang. An Efficient Microblog Hot Topic Detection Algorithm Based on Two Stage Clustering. **Intelligent Information Processing** 2014: 90-95.
 
 # 📚 Patent
 - 2021.08，一种以关键词为驱动的动态图神经网络多跳阅读理解方法, 国家发明专利, 已公开, 排名第一
