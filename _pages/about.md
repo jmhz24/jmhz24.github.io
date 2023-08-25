@@ -18,7 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😊 About me
-I am a Ph.D. student at Beijing Institute of Technology, advised by <a href='https://cs.bit.edu.cn/szdw/jsml/js/llj/index.htm'>Prof. Lejian Liao</a>, and I am studying at Nanyang Technological University in Singapore as a visiting student, advised by <a href='https://tuanluu.github.io/'>Asst. Prof. Anh Tuan Luu</a>. I worked at JD AI Lab, NLP group as a research intern engineer since 2021.11, advised by <a href='http://chenmengdx.github.io/research/'>Dr. Meng Chen</a> and <a href='https://scholar.google.com/citations?hl=zh-CN&user=W5WbqgoAAAAJ'>Dr. Xiaodong He</a>. My research interests:
+I am a Ph.D. student at Beijing Institute of Technology, advised by <a href='https://cs.bit.edu.cn/szdw/jsml/js/llj/index.htm'>Prof. Lejian Liao (廖乐健)</a>, and I am studying at Nanyang Technological University in Singapore as a visiting student, advised by <a href='https://tuanluu.github.io/'>Asst. Prof. Anh Tuan Luu</a>. I worked at JD AI Lab, NLP group as a research intern engineer since 2021.11, advised by <a href='http://chenmengdx.github.io/research/'>Dr. Meng Chen (陈蒙)</a> and <a href='https://scholar.google.com/citations?hl=zh-CN&user=W5WbqgoAAAAJ'>Dr. Xiaodong He (何晓东)</a>. I graduated from Northwest Normal University with a master’s degree, advised by <a href='https://scholar.google.com/citations?hl=zh-CN&user=r4iH7uIAAAAJ'>Prof. Huifang Ma (马慧芳)</a>. 
+
+My research interests:
 - Natural Language Processing
 - Multimodal Learning
 - Machine Reading Comprehension
