@@ -60,8 +60,8 @@ My research interests:
 - *2013.09 - 2016.06*, Northwest Normal University, Lanzhou, China
 
 # 💻 Works/Internships
-- *2021.11 - 2022.12*, JD AI Lab, NLP group  --Algorithm engineer (research).
-- *2016.07 - 2018.04*, Bank of China
+- *2021.11 - 2022.12*, JD AI Lab, NLP group  --Algorithm engineer (research), Beijing, China.
+- *2016.07 - 2018.04*, Bank of China, shaanxi, China.
 
 # 💬 Talks
 - *2023.02*, An end-to-end MRC framework for multimodal named entity recognition with query grounding, AAAI, Washington, USA, Online.
