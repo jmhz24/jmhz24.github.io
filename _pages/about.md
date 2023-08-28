@@ -38,7 +38,7 @@ My research interests:
 - Fei Li, Zheng Wang, Siu Cheung Hui, Lejian Liao, Dandan Song, Jing Xu, Guoxiu He, **Meihuizi Jia**: Modularized Interaction Network for Named Entity Recognition. **ACL/IJCNLP** (1) 2021: 200-209 <font color="red"> (Oral) </font>.
 - Huifang Ma, Di Zhang, **Meihuizi Jia**. A term correlation based semi-supervised microblog clustering with dual constraints[J]. **International Journal of Machine Learning and Cybernetics**, 2019, 10: 679-692.
 - Huifang Ma, **Meihuizi Jia**, Di Zhang, Xianghong Lin. Combining tag correlation and user social relation for microblog recommendation[J]. **Information Sciences**, 2017, 385: 325-337.
-- 马慧芳, **贾美惠子**, 张迪, 蔺想红, 融合标签关联关系与用户社交关系的微博推荐方法[J]., **电子学报**., 2017,45(01):112-118.
+- Huifang Ma, **Meihuizi Jia**, Di Zhang, Xianghong Lin, Microblog recommendation method integrating label association relationship and user social relationship[J]., **Acta Electronica Sinica (Chinese:电子学报)**., 2017,45(01):112-118.
 - Huifang Ma, **Meihuizi Jia**, Xianghong Lin, Fuzhen Zhuang. Tag correlation and user social relation based microblog recommendation. **IJCNN** 2016: 2424-2430.
 - Huifang Ma, **Meihuizi Jia**, Meng Xie, Xianghong Lin. A Microblog Recommendation Algorithm Based on Multi-tag Correlation. **KSEM** 2015: 483-488.
 - Huifang Ma, **Meihuizi Jia**, Weizhong Zhao, Xianghong Lin. Semi-supervised Microblog Clustering Method via Dual Constraints. **KSEM** 2015: 360-369.
@@ -46,7 +46,7 @@ My research interests:
 - Yuexin Sun, Huifang Ma, **Meihuizi Jia**, Peiqing Wang. An Efficient Microblog Hot Topic Detection Algorithm Based on Two Stage Clustering. **Intelligent Information Processing** 2014: 90-95.
 
 # 📚 Patent
-- 2021.08，一种以关键词为驱动的动态图神经网络多跳阅读理解方法, 国家发明专利, 已公开, 排名第一
+- 2021.08，A keyword-driven multi-hop reading comprehension method based on dynamic graph neural networks, National Invention Patent (Chinese), The patent has been published, **Rank first**.
  
 # 🎖 Honors and Awards
 - 2020.08 Awarded by the China Scholarship Council (CSC).
